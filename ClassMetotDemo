@@ -1,0 +1,8 @@
+< Proje  Sdk = " Microsoft.NET.Sdk " >
+
+  < ÖzellikGrubu >
+    < OutputType > Exe </ OutputType >
+    < TargetFramework > netcoreapp3.1 </ TargetFramework >
+  </ PropertyGroup >
+
+</ Proje >
